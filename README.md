@@ -37,6 +37,7 @@ This repository consists of work completed through personal projects, part-time 
   - Casino Marketing Decisions
   - College Tuition
   - Energy Informatics
+  - NFL Arrests
 - Systems & Process Analysisa
   - Student Organizations System
   - Health Insurance System BPM
