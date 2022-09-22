@@ -4,6 +4,23 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 
 Currently, I am looking for a full-time position upon graduation as a Data Analyst, Business Analyst, Tech Consultant, or Data & Analytics Consultant.
 
+## Certifications
+
+- Arch Ready Professionalism | UGA
+- Machine Learning for Business | Datacamp
+- Learn SQL | Codeacademy
+- Lean Six Sigma Yellow Belt | GoLeanSixSigma
+- Introduction to Statistics in R | Datacamp
+- Introduction to the Tidyverse | Datacamp
+- Tableau 2020 A-Z: Hands-On Tableau Training for Data Science | Udemy
+- Visio 2019 Essential Training | LinkedIn Learning
+- HTML Essential Training | LinkedIn Learning
+- Introduction to CSS | LinkedIn Learning
+- Learning SQL Programming | LinkedIn Learning
+- SQL Essential Training | LinkedIn Learning
+- Excel 2016 Essential Training | LinkedIn Learning
+- Excel 2016: Advanced Forumlas and Functions | LinkedIn Learning
+- Excel 2016: Financial Functions in Depth | LinkedIn Learning
 
 # Portfolio Contents
 
