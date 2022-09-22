@@ -7,4 +7,20 @@ Currently, I am looking for a full-time position upon graduation as a Data Analy
 
 # Portfolio Contents
 
-This repository consists of work completed through personal projects, part-time experiences, and coursework.
+This repository consists of work completed through personal projects, part-time experiences, and coursework. The languages and software used include R, Python, SQL, Java, Tableau, SPSS, and Salesforce.
+
+- Web Application Development
+  - Solar Panel Simulation
+  - UGA Baseball Heat Maps
+  - Donut Shop Website
+- Data Analysis & Machine Learning
+  - GameStop Case Study
+  - March Madness Prediction
+  - Fitness App Business Problem
+  - Casino Marketing Decisions
+  - College Tuition
+  - Energy Informatics
+- Systems & Process Analysisa
+  - Student Organizations System
+  - Health Insurance System BPM
+
