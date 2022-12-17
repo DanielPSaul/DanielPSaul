@@ -35,7 +35,7 @@ This repository consists of work completed through personal projects, part-time 
   - Casino Marketing Decisions
   - College Tuition
   - Energy Informatics
-  - NFL Arrests
+  - National Football League (NFL) Arrests
   - Online Marketplace Price Prediction
 - Systems & Process Analysisa
   - Student Organizations System
