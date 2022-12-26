@@ -22,7 +22,7 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 
 # Portfolio Contents
 
-This repository consists of work completed through personal projects, part-time experiences, and coursework. The languages and software used include R, Python, SQL, Java, Tableau, SPSS, and Salesforce.
+This repository consists of work completed through personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items and prevention of releasing personal or sensitive data/information.
 
 - Web Application Development
   - Solar Panel Simulation
