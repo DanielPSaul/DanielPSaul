@@ -52,6 +52,7 @@ This repository consists of work completed through personal projects, part-time 
 
 **Description:** With this solar panel simulation application, users can enter zipcode, solar panel/system, and financial inputs to run a simulation that provides analysis of energy and financial outputs based on a certain location's weather data. The weather data used is a typical meteorological year (TMY) file which represents the average weather conditions over a select year range. It is extracted from the National Solar Radiation Database (NSRDB) and run through the National Renewable Energy Laboratory (NREL) SAM model. Outputs are visualized through plots and tables at an annual, monthly, and hourly basis. This project is currently in progress through my student assistantship with the Terry College of Business - Management Information Systems and Physics department at the University of Georgia.
 
+<br>
 
 ### UGA Baseball Heatmaps
 **Concepts:** Interactive Web App Development, Data Transformation, Data Analytics, Data Visualization, Sports Analytics
@@ -61,6 +62,8 @@ This repository consists of work completed through personal projects, part-time 
 **Packages:** shiny, tidyverse, plotly
 
 **Description:** This web application was built for the University of Georgia baseball team's pitchers and pitching coaches to help analyze pitching and opposing players batting habits and win more games. It resulted from a semester-long project for a sports analytics directed study elective completed during my first semester in the MSBA. My team and I were tasked with building less clunky and smooth heat maps based on pitching location within a strike zone combined with the outcome of the pitch. The application has been built in iterations by previous groups, so we were responsible for creating two tabs, pitching and hitting heat maps, along with various other baseball-related statistics in the visuals. Users can input the season, game or range of games, batter side, pitch types, pitch outcomes, and pitcher in which faceted heat maps and a statistics table are generated. Inputs are similar for the batting analysis, except that the heat maps display the pitch location pitched to the opposing batter, faceted by the outcome of the pitch instead of the pitch type. Sample photos and the select code we used are included in the repository to prevent access or sharing of sensitive or personal information.
+
+<br>
 
 ### Donut Shop Website
 **Concepts:** Cloud-Based Web App Development, Project Management
