@@ -20,6 +20,8 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 - Excel 2016: Advanced Forumlas and Functions | LinkedIn Learning
 - Excel 2016: Financial Functions in Depth | LinkedIn Learning
 
+<br>
+
 # Portfolio Contents
 
 This repository consists of work completed through personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items or the prevention of releasing personal or sensitive data/information.
@@ -41,6 +43,8 @@ This repository consists of work completed through personal projects, part-time 
 - Systems & Process Analysis
   - Student Organizations System
   - Health Insurance System BPM
+
+<br>
   
 ## Web Application Development  
 ### Solar Panel Simulation
