@@ -1,9 +1,23 @@
 # Introduction
-
 Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytics (MSBA) student at the University of Georgia (UGA), planning to graduate in May 2023. I am originally from Franklin, Tennessee, a 25-minute drive south of Nashville, but I spent the last 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! I am working as a Student Assistant for the MIS department at UGA and plan to join Invesco's digital wealth firm, intelliflo, as a Business Operations Engineer in late July!
 
-## Certifications
+## Technical Skills
+- R, Python, SQL, XML, Java, HTML, CSS
+- Tableau, Shiny R, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
 
+## Education
+- M.S. Business Analytics | University of Georgia | 2022-2023
+- B.B.A. Management Information Systems | University of Georgia | 2018-2022
+- Marketing & Management CCTE | Franklin High School | 2014-2018
+
+## Experience
+- Student Assistant | Unversity of Georgia - Terry College of Business - MIS | Aug 2022-Present
+- Business Operations Intern, FinTech | Invesco - intelliflo | Jun 2021-May 2022
+- Corporate Development Intern | Make-A-Wish Georgia | Dec 2020-Mar 2021
+- Data Research and Entry | ScholarshipAuditions.com | Jun 2020-Jul 2020
+- Sales and Data Analyst | Music City Wear It | May 2019-May 2020
+
+## Certifications
 - Arch Ready Professionalism | UGA
 - Machine Learning for Business | Datacamp
 - Learn SQL | Codeacademy
@@ -23,8 +37,7 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 <br>
 
 # Portfolio Contents
-
-This repository consists of work completed through personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items or the prevention of releasing personal or sensitive data/information.
+This repository consists of work completed through technical personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items or the prevention of releasing personal or sensitive data/information.
 
 - Web Application Development
   - Solar Panel Simulation
