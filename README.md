@@ -5,6 +5,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
 <br>
 
 # Introduction
