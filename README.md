@@ -1,8 +1,8 @@
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
 
 
 # Introduction
@@ -17,6 +17,7 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 - R, Python, SQL, XML, Java, HTML, CSS
 - Tableau, Shiny R, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
 
 ## Education
