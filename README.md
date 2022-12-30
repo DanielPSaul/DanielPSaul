@@ -1,6 +1,6 @@
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
 
@@ -20,9 +20,8 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
 <br>
-<br>
 
-## Education
+<br> ## Education
 - M.S. Business Analytics | University of Georgia | 2022-2023
 - B.B.A. Management Information Systems | University of Georgia | 2018-2022
 - Marketing & Management CCTE | Franklin High School | 2014-2018
