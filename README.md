@@ -2,7 +2,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
+<p><img align="center" position="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
 
 <br>
 
