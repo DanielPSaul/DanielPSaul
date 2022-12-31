@@ -28,9 +28,9 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 <br>
 
 ## Education
-📖 M.S. Business Analytics | University of Georgia | 2022-2023
-📖 B.B.A. Management Information Systems | University of Georgia | 2018-2022
-📖 Marketing & Management CCTE | Franklin High School | 2014-2018
+📖 M.S. Business Analytics | University of Georgia | 2022-2023 /n
+📖 B.B.A. Management Information Systems | University of Georgia | 2018-2022 /n
+📖 Marketing & Management CCTE | Franklin High School | 2014-2018 /n
 
 ## Experience
 - Student Assistant | Unversity of Georgia - Terry College of Business - MIS | Aug 2022-Present
