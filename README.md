@@ -11,7 +11,7 @@
 <br>
 
 
-# Introduction
+# Introduction 🤝
 Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytics (MSBA) student at the University of Georgia (UGA), planning to graduate in May 2023. I am originally from Franklin, Tennessee, a 25-minute drive south of Nashville, but I spent the last 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! I am working as a Student Assistant for the MIS department at UGA and plan to join Invesco's digital wealth firm, intelliflo, as a Business Operations Engineer in late July!
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +19,7 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 <a href="https://linkedin.com/in/danielsaul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielsaul1" height="30" width="40" /></a>
 </p>
 
-## Technical Skills
+## Technical Skills 💻
 - R, Python, SQL, XML, Java, HTML, CSS
 - Tableau, Shiny R, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
 
@@ -58,7 +58,7 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 
 <br>
 
-# Portfolio Contents
+# Portfolio Contents 🗂️
 This repository consists of work completed through technical personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items or the prevention of releasing personal or sensitive data/information.
 
 - Web Application Development
