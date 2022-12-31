@@ -1,4 +1,3 @@
-[![MasterHead](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
 <h3 align="center">University of Georgia MSBA Candidate 2023</h3>
 
@@ -6,7 +5,9 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielpsaul&" alt="danielpsaul" />
+<img align="right" alt="Coder GIF" height=200 width=350 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+</p>
 
 <br>
 
