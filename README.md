@@ -90,6 +90,7 @@ This repository consists of work completed through technical personal projects, 
 ## Web Application Development  
 ### Solar Panel Simulation
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/SolarPanelApp)
+
 **Concepts:** Interactive Web App Development, API's, Data Transformation, Data Analytics, Data Visualization
 
 **Software & Languages:** R, Python, System Advisor Model (SAM)
@@ -101,6 +102,8 @@ This repository consists of work completed through technical personal projects, 
 <br>
 
 ### UGA Baseball Heatmaps
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/BaseballHeatmaps)
+
 **Concepts:** Interactive Web App Development, Data Transformation, Data Analytics, Data Visualization, Sports Analytics
 
 **Software & Languages:** R
@@ -113,6 +116,7 @@ This repository consists of work completed through technical personal projects, 
 
 ### Donut Shop Website
 [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://danielsaul.wixsite.com/donutworry)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
 <br>
 **Concepts:** Cloud-Based Web App Development, Project Management
 
