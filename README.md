@@ -65,7 +65,7 @@ This repository consists of work completed through technical personal projects, 
   - Solar Panel Simulation
   - UGA Baseball Heat Maps
   - Donut Shop Website
-- Data Analysis & Machine Learning
+- Data Science
   - GameStop Case Study
   - March Madness Prediction
   - Fitness App Business Problem
@@ -123,7 +123,7 @@ This repository consists of work completed through technical personal projects, 
 
 <br>
 
-## Data Analysis & Machine Learning
+## Data Science
   
 ## Systems & Process Analysis
 
