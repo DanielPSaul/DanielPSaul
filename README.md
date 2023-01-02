@@ -80,7 +80,7 @@ This repository consists of work completed through technical personal projects, 
   - Health Insurance System BPM
 
 * [Web Application Development](https://github.com/DanielPSaul#web-application-development)
-    * [Solar Panel Simulation](https://github.com/JarrydWannenburg#bike-sharing](https://github.com/DanielPSaul/SolarPanelApp)
+    * [Solar Panel Simulation](https://github.com/DanielPSaul/solar-panel-app)
 
 
 <br>
