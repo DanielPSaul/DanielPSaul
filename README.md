@@ -79,6 +79,10 @@ This repository consists of work completed through technical personal projects, 
   - Student Organizations System
   - Health Insurance System BPM
 
+* [Web Application Development](https://github.com/DanielPSaul#web-application-development)
+    * [Solar Panel Simulation](https://github.com/JarrydWannenburg#bike-sharing](https://github.com/DanielPSaul/SolarPanelApp)
+
+
 <br>
   
 ## Web Application Development  
