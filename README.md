@@ -89,6 +89,7 @@ This repository consists of work completed through technical personal projects, 
   
 ## Web Application Development  
 ### Solar Panel Simulation
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/SolarPanelApp)
 **Concepts:** Interactive Web App Development, API's, Data Transformation, Data Analytics, Data Visualization
 
 **Software & Languages:** R, Python, System Advisor Model (SAM)
