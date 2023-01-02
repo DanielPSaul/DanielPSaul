@@ -117,7 +117,7 @@ This repository consists of work completed through technical personal projects, 
 ### Donut Shop Website
 [![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)](https://danielsaul.wixsite.com/donutworry)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
-<br>
+
 **Concepts:** Cloud-Based Web App Development, Project Management
 
 **Software & Languages:** Wix.com
