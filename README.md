@@ -80,7 +80,9 @@ This repository consists of work completed through technical personal projects, 
   - Health Insurance System BPM
 
 * [Web Application Development](https://github.com/DanielPSaul#web-application-development)
-    * [Solar Panel Simulation](https://github.com/DanielPSaul/solar-panel-app)
+    * [Solar Panel Simulation](https://github.com/DanielPSaul/solar-panel-simulation)
+    * [UGA Baseball Heat Maps](https://github.com/DanielPSaul/uga-baseball-heat-maps)
+    * [Donut Shop Website](https://github.com/DanielPSaul/donut-shop-website)
 
 
 <br>
