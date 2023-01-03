@@ -29,6 +29,8 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
 <br>
 
+*Will not display all languages known.*
+
 ## Education 📖
 - M.S. Business Analytics | University of Georgia | 2022-2023
 - B.B.A. Management Information Systems | University of Georgia | 2018-2022
