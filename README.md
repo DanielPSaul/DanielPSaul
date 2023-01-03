@@ -144,7 +144,7 @@ This repository consists of work completed through technical personal projects, 
 
 **Packages:** N/A
 
-**Description:** This basic website was a project I worked on and created in a network application and web development course at UGA. We were tasked with building static website based on minimal visual requirements. It is modeled from a food blog Instagram page I run today, @college._.eats, now called chef._.saul. It includes recipes, pictures, tips, and contact information.
+**Description:** This basic website was a project I worked on and created in a network application and web development course at UGA. We were tasked with building static website based on minimal visual requirements. It is modeled from a food blog Instagram page I run today, @college._.eats, now called chef._.saul. It includes recipes, pictures, tips, and contact information. I have included a sample photo of the home page, but I recommend opening the index.html file to explore the site.
 
 <br>
 
