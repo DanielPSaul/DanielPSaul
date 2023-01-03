@@ -70,7 +70,7 @@ This repository consists of work completed through technical personal projects, 
     * [UGA Baseball Heat Maps](https://github.com/DanielPSaul#uga-baseball-heat-maps)
     * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
     * [Food Blog Website](https://github.com/DanielPSaul#food-blog-website)
-  - Clothing Shop App
+    * [Clothing Shop App](https://github.com/DanielPSaul#clothing-shop-app)
   - Loan Amortization App
   - Book Database
 - Data Science
