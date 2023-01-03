@@ -140,20 +140,20 @@ This repository consists of work completed through technical personal projects, 
 
 **Packages:** N/A
 
-**Description:** This basic website was a project I worked on and created in a network application and web development course at UGA. We were tasked with building static website based on minimal visual requirements. It is modeled from a food blog Instagram page I run today, @college._.eats, now called chef._.saul. It includes recipes, pictures, tips, and contact information. I have included a sample photo of the home page, but I recommend opening the index.html file to explore the site.
+**Description:** This basic website was a project I worked on and created in a network application and web development course at UGA. We were tasked with building static website based on minimal visual requirements. It is modeled from a food blog Instagram page I currently operate. It includes recipes, pictures, tips, and contact information. I have included a sample photo of the home page, but I recommend opening the index.html file to explore the site.
 
 <br>
 
 ### Clothing Shopping App
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/ClothingShopApp)
 
-**Concepts:** 
+**Concepts:** Application Development, Object-Oriented Programming Principles, System Process Management
 
-**Software & Languages:** Apache Tomcat
+**Software & Languages:** Java, Eclipse
 
-**Packages:** 
+**Packages:** N/A
 
-**Description:**
+**Description:** This report was a group project I worked on in a business programming course at UGA. We were tasked with creating an inventory database and system for a hypothetical online shopping system of our choosing. We decided to create a system for an online clothing store called "Custom Clothing Athens." We included scenario flowcharts, demonstrations, and UML diagrams. It covers the data types: Arrays, ArrayLists, HashSets, and HashMaps. The project also covers the object-oriented programming principles Inheritance, Encapsulation, and Polymorphism. Since this project focused more on the server side and not the user interface, I have included the code and my group's presentation report which will help the viewer visualize the project.
 
 <br>
 
