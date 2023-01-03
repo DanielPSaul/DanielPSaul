@@ -20,7 +20,7 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 </p>
 
 ## Technical Skills 💻
-- R, Python, SQL, XML, Java, HTML, CSS
+- R, Python, SQL, XML, Java, HTML, CSS, Javascript
 - Tableau, Shiny R, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
 
 <br>
@@ -65,6 +65,10 @@ This repository consists of work completed through technical personal projects, 
   - Solar Panel Simulation
   - UGA Baseball Heat Maps
   - Donut Shop Website
+  - Food Blog Website
+  - Clothing Shopping App
+  - Loan Amortization App
+  - Book Database
 - Data Science
   - GameStop Case Study
   - March Madness Prediction
@@ -127,6 +131,59 @@ This repository consists of work completed through technical personal projects, 
 **Description:** This website was built with the cloud-based website service, Wix.com, for a project management course group project at UGA. The capstone project required that each group selects a local business with a feasible problem we solve using technology and the project manangement lifecycle. We decided to build an interactive website for a donut shop located in Lawrenceville, Georgia because they were struggling with customer engagement and online orders due to the pandemic and its only consumer communication source being a Facebook page. The webpage is equiped with online ordering capabilities, general store information such as hours and history, menus, product photo galleries, social media links, company news, contact form functionality, and more.
 
 <br>
+
+### Food Blog Website
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
+
+**Concepts:** 
+
+**Software & Languages:** Apache Tomcat
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Clothing Shopping App
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
+
+**Concepts:** 
+
+**Software & Languages:** Apache Tomcat
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Loan Amortization App
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
+
+**Concepts:** 
+
+**Software & Languages:** Apache Tomcat
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Book Database
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
+
+**Concepts:** 
+
+**Software & Languages:** Apache Tomcat
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
 
 ## Data Science
   
