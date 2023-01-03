@@ -20,8 +20,10 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 </p>
 
 ## Technical Skills 💻
-- R, Python, SQL, XML, Java, HTML, CSS, Javascript
-- Tableau, Shiny R, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
+- Language: R, Python, SQL, XML, Java, HTML, CSS, JavaScript
+- Software: Tableau, R Shiny, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
+- Packages: *Included in projects below!*
+- Environments: R Studio, Eclipse, Anaconda, MySQL
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
