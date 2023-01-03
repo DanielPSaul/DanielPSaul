@@ -64,11 +64,12 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 # Portfolio Contents 🗂️
 This repository consists of work completed through technical personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items or the prevention of releasing personal or sensitive data/information.
 
-- Web Application Development
-  - Solar Panel Simulation
-  - UGA Baseball Heat Maps
-  - Donut Shop Website
-  - Food Blog Website
+
+* [Web Application Development](https://github.com/DanielPSaul#web-application-development)
+    * [Solar Panel Simulation](https://github.com/DanielPSaul#solar-panel-simulation)
+    * [UGA Baseball Heat Maps](https://github.com/DanielPSaul#uga-baseball-heat-maps)
+    * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
+    * [Food Blog Website](https://github.com/DanielPSaul#food-blog-website)
   - Clothing Shopping App
   - Loan Amortization App
   - Book Database
@@ -85,11 +86,6 @@ This repository consists of work completed through technical personal projects, 
 - Systems & Process Analysis
   - Student Organizations System
   - Health Insurance System BPM
-
-* [Web Application Development](https://github.com/DanielPSaul#web-application-development)
-    * [Solar Panel Simulation](https://github.com/DanielPSaul#solar-panel-simulation)
-    * [UGA Baseball Heat Maps](https://github.com/DanielPSaul#uga-baseball-heat-maps)
-    * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
 
 
 <br>
