@@ -70,7 +70,7 @@ This repository consists of work completed through technical personal projects, 
     * [UGA Baseball Heat Maps](https://github.com/DanielPSaul#uga-baseball-heat-maps)
     * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
     * [Food Blog Website](https://github.com/DanielPSaul#food-blog-website)
-  - Clothing Shopping App
+  - Clothing Shop App
   - Loan Amortization App
   - Book Database
 - Data Science
@@ -144,7 +144,7 @@ This repository consists of work completed through technical personal projects, 
 
 <br>
 
-### Clothing Shopping App
+### Clothing Shop App
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/ClothingShopApp)
 
 **Concepts:** Application Development, Object-Oriented Programming Principles, System Process Management
