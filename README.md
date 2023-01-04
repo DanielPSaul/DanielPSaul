@@ -71,8 +71,8 @@ This repository consists of work completed through technical personal projects, 
     * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
     * [Food Blog Website](https://github.com/DanielPSaul#food-blog-website)
     * [Clothing Shop App](https://github.com/DanielPSaul#clothing-shop-app)
-  - Loan Amortization App
-  - Book Database
+    * [Loan Amortization App](https://github.com/DanielPSaul#loan-amortization-app)
+    * [Book Database](https://github.com/DanielPSaul#book-database)
 - Data Science
   - GameStop Case Study
   - March Madness Prediction
