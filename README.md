@@ -136,7 +136,7 @@ This repository consists of work completed through technical personal projects, 
 
 **Concepts:** Network Applications, Static Web Development
 
-**Software & Languages:** Apache Tomcat, HTML, CSS, Eclipse
+**Software & Languages:** Apache Tomcat, HTML, CSS, Eclipse, Java
 
 **Packages:** N/A
 
@@ -158,15 +158,15 @@ This repository consists of work completed through technical personal projects, 
 <br>
 
 ### Loan Amortization App
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DonutShopWebsite)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/LoanAmortApp)
 
-**Concepts:** 
+**Concepts:** Network Applications, Dynamic Web Development
 
-**Software & Languages:** Apache Tomcat
+**Software & Languages:** Apache Tomcat, HTML, CSS, Eclipse, Java
 
-**Packages:** 
+**Packages:** N/A
 
-**Description:**
+**Description:** This basic website was an assignment I worked on and created in a network application and web development course at UGA. We were tasked with building a dynamic website mimicing a loan amortization calculator. It takes the inputs of loan principal, term, and rate. The app then displays a loan amortization table output over time. I have included this project in my portfolio to get a glimpse of my past experiences with web development, but unfortunately, I have lost the correct software and connections to run and visualize the app.
 
 <br>
 
