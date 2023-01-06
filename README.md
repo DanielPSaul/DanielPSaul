@@ -73,19 +73,19 @@ This repository consists of work completed through technical personal projects, 
     * [Clothing Shop App](https://github.com/DanielPSaul#clothing-shop-app)
     * [Loan Amortization App](https://github.com/DanielPSaul#loan-amortization-app)
     * [Book Database](https://github.com/DanielPSaul#book-database)
-- Data Science
-  - GameStop Case Study
-  - March Madness Prediction
-  - Fitness App Business Problem
-  - Casino Marketing Decisions
-  - College Tuition
-  - Energy Informatics
-  - National Football League (NFL) Arrests
-  - Online Marketplace Price Prediction
-  - My Job Application Process
-- Systems & Process Analysis
-  - Student Organizations System
-  - Health Insurance System BPM
+* [Data Science & Analytics](https://github.com/DanielPSaul#data-science-&-analytics)
+    * [GameStop Case Study](https://github.com/DanielPSaul#gamestop-case-study)
+    * [March Madness Prediction](https://github.com/DanielPSaul#march-madness-prediction)
+    * [Fitness App Business Problem](https://github.com/DanielPSaul#fitness-app-business-problem)
+    * [Casino Marketing Decisions](https://github.com/DanielPSaul#casino-marketing-decisions)
+    * [College Tuition](https://github.com/DanielPSaul#college-tuition)
+    * [Energy Informatics](https://github.com/DanielPSaul#energy-informatics)
+    * [National Football League (NFL) Arrests](https://github.com/DanielPSaul#national-football-league-(nfl)-arrests)
+    * [Online Marketplace Price Prediction](https://github.com/DanielPSaul#online-marketplace-price-prediction)
+    * [My Job Application Process](https://github.com/DanielPSaul#my-job-application-process)
+* [Systems & Process Analysis](https://github.com/DanielPSaul#systems-&-process-analysis)
+    * [Student Organizations System](https://github.com/DanielPSaul#student-organizations-system)
+    * [Health Insurance System BPM](https://github.com/DanielPSaul#health-insurance-system-BPM)
 
 
 <br>
@@ -184,7 +184,7 @@ This repository consists of work completed through technical personal projects, 
 <br>
 
 
-## Data Science
+## Data Science & Analytics
   
 ## Systems & Process Analysis
 
