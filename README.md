@@ -183,8 +183,47 @@ This repository consists of work completed through technical personal projects, 
 
 <br>
 
-
 ## Data Science & Analytics
+### GameStop Case Study
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/GameStopCaseStudy)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### March Madness Prediction
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MarchMadnessPrediction)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Fitness App Business Problem
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/FitnessAppBusinessProblem)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+
   
 ## Systems & Process Analysis
 
