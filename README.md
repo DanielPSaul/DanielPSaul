@@ -193,20 +193,20 @@ This repository consists of work completed through technical personal projects, 
 
 **Packages:** tidyverse, xml2, tibble, rvest
 
-**Description:** This case study was conducted as part of my midterm exam requirement for an Business Intelligence course I took at UGA. We were tasked with web scraping video game data from OpenCritic, a video game critic blog, and making video game sale strategy recommendations for GameStop. Web scraping was done with R and the descriptive visualizations were created in Tableau to help further enhance my analysis. The web scraping code and full report are included in the repository.
+**Description:** This case study was conducted as part of my midterm exam requirement for a Business Intelligence course I took at UGA. We were tasked with web scraping video game data from OpenCritic, a video game critic blog, and making video game sale strategy recommendations for GameStop. Web scraping was done with R and the descriptive visualizations were created in Tableau to help further enhance my analysis. The web scraping code and full report are included in the repository.
 
 <br>
 
 ### March Madness Prediction
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MarchMadnessPrediction)
 
-**Concepts:** 
+**Concepts:** Machine Learning, Data Visualization, Data Analysis
 
-**Software & Languages:** 
+**Software & Languages:** Tableau, R
 
-**Packages:** 
+**Packages:** tidyverse, rvest, caret, dbplyer, corrplot
 
-**Description:**
+**Description:** This report was conducted as part of a group project for a Business Intelligence course I took at UGA. My group and I were tasked with picking any current topic and making a prediction of some sort with it. Every spring, the popular Men's NCAA March Madness basketball tournament is played and millions of fans create brackets and compete to see who can predict a winner. Our group decided it was the perfect time to attempt to predict a March Madness winner with machine learning methods. We sourced our data from Kaggle, created descriptive visualizations with Tableau, and made a traditional OLS regression model with R running repeatedly to predict the most tournament wins. We trained the model on data from the 2015 - 2019 seasons and tested the moddel on the 2021 season. Our model yielded 34% more points than the average bracket and has a meaningful impact on bracket performance as a result.
 
 <br>
 
