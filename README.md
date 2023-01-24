@@ -213,6 +213,84 @@ This repository consists of work completed through technical personal projects, 
 ### Fitness App Business Problem
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/FitnessAppBusinessProblem)
 
+**Concepts:** Relational Database Management, Data Management
+
+**Software & Languages:** SQL, MySQL
+
+**Packages:** N/A
+
+**Description:** This project was conducted as a group for a Data Management and Analytics course I took at UGA. It was actually the first coding class I ever took, so please bare with me. My group was tasked with finding a real technology problem for a company, building a database and queries to help fix part of the issues, and make recommendations on what to do next. We decided to create new hypothetical subscription plans for FitBit: one being a sleep database and tracker, and the second being recommendations generated for a user with the "original" database. I do not have access to the database anymore, but I did include the SQL queries in a file included in the repository. The report displays the business problem, queries and outputs, data dictionaries, and database model.
+
+<br>
+
+### Casino Marketing Decisions
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/CasinoMarketingDecisions)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### College Tuition
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/CollegeTuition)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Energy Informatics
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/EnergyInformatics)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### NFL Arrests
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/NFLArrests)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Online Marketplace Price Prediction
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/OnlineMarketplacePricePrediction)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### My Job Application Process (2022)
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MyJobApplicationProcess)
+
 **Concepts:** 
 
 **Software & Languages:** 
