@@ -77,7 +77,7 @@ This repository consists of work completed through technical personal projects, 
     * [GameStop Case Study](https://github.com/DanielPSaul#gamestop-case-study)
     * [March Madness Prediction](https://github.com/DanielPSaul#march-madness-prediction)
     * [Fitness App Business Problem](https://github.com/DanielPSaul#fitness-app-business-problem)
-    * [Casino Marketing Decisions](https://github.com/DanielPSaul#casino-marketing-decisions)
+    * [Marketing Analytics Collection](https://github.com/DanielPSaul#marketing-analytics-collection)
     * [College Tuition](https://github.com/DanielPSaul#college-tuition)
     * [Energy Informatics](https://github.com/DanielPSaul#energy-informatics)
     * [National Football League (NFL) Arrests](https://github.com/DanielPSaul#national-football-league-(nfl)-arrests)
