@@ -36,7 +36,8 @@ Hello! My name is Daniel Saul, and I am a Master of Science in Business Analytic
 - Marketing & Management CCTE | Franklin High School | 2014-2018
 
 ## Experience 📝
-- Student Assistant | Unversity of Georgia - Terry College of Business - MIS | Aug 2022-Present
+- Business Operations Engineer | Invesco - intelliflo | Jul 2023-Present
+- Student Assistant | Unversity of Georgia - Terry College of Business - MIS | Aug 2022-May 2023
 - Business Operations Intern, FinTech | Invesco - intelliflo | Jun 2021-May 2022
 - Corporate Development Intern | Make-A-Wish Georgia | Dec 2020-Mar 2021
 - Data Research and Entry | ScholarshipAuditions.com | Jun 2020-Jul 2020
