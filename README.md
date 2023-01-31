@@ -79,8 +79,8 @@ This repository consists of work completed through technical personal projects, 
     * [March Madness Prediction](https://github.com/DanielPSaul#march-madness-prediction)
     * [Fitness App Business Problem](https://github.com/DanielPSaul#fitness-app-business-problem)
     * [Marketing Analytics Collection](https://github.com/DanielPSaul#marketing-analytics-collection)
-    * [College Tuition](https://github.com/DanielPSaul#college-tuition)
-    * [Energy Informatics](https://github.com/DanielPSaul#energy-informatics)
+    * [Machine Learning Collection](https://github.com/DanielPSaul#machine-learning-collection)
+    * [Energy Informatics Collection](https://github.com/DanielPSaul#energy-informatics-collection)
     * [National Football League (NFL) Arrests](https://github.com/DanielPSaul#national-football-league-(nfl)-arrests)
     * [Online Marketplace Price Prediction](https://github.com/DanielPSaul#online-marketplace-price-prediction)
     * [My Job Application Process](https://github.com/DanielPSaul#my-job-application-process)
@@ -227,7 +227,7 @@ This repository consists of work completed through technical personal projects, 
 ### Marketing Analytics Collection
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MarketingAnalyticsCollection)
 
-**Concepts:** Marketing Analytics, Statistics, Data Visualization
+**Concepts:** Marketing Analytics, Statistics, Data Visualization, Machine Learning
 
 **Software & Languages:** Tableau, SPSS
 
@@ -237,21 +237,21 @@ This repository consists of work completed through technical personal projects, 
 
 <br>
 
-### College Tuition
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/CollegeTuition)
+### Machine Learning Collection
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MachineLearningCollection)
 
-**Concepts:** 
+**Concepts:** Machine Learning, Data Visualization, Time Series Analysis, Forecasting, Data Transformation and Wrangling, Natural Language Processing, API's
 
-**Software & Languages:** 
+**Software & Languages:** Python, Jupyter Notebook
 
-**Packages:** 
+**Packages:** pandas, numpy, matplotlib, seaborn, datetime, yfinance, sklearn, bs4, requests, json, tqdm, pygments, google_play_scraper, eli5, nltk
 
-**Description:**
+**Description:** This repository holds a collection of multiple assignments that were not large enough for their own repository I completed for a Machine Learning course at UGA. There is a mix of machine learning methodologies listed in Concepts and large amount of data cleansing. The assignments feature working with the FRED API to gather S&P500 and financial data, banking and loan default status, NYSE and the affects of world events and synthetic data, the CAPM and COVID analysis, and Amazon app reviews. The bulk of the machine learning concepts I used were linear regression, classification, PCA analysis, sentiment analysis, and Random Forest models.
 
 <br>
 
-### Energy Informatics
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/EnergyInformatics)
+### Energy Informatics Collection
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/EnergyInformaticsCollection)
 
 **Concepts:** 
 
