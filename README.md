@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel!</h1>
-<h3 align="center">University of Georgia MSBA Candidate 2023</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielpsaul&label=Profile%20views&color=b6d3ec&style=flat" alt="danielpsaul" /> </p>
+<h3 align="center">University of Georgia MSBA Candidate 2023</h3
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" />
