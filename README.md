@@ -67,6 +67,7 @@ This repository consists of work completed through technical personal projects, 
 * [Web Application Development](https://github.com/DanielPSaul#web-application-development)
     * [Solar Panel Simulation](https://github.com/DanielPSaul#solar-panel-simulation)
     * [Solar Panel Optimizaton](https://github.com/DanielPSaul#solar-panel-optimization)
+    * [Perovskite LCOE Calculator](https://github.com/DanielPSaul#perovskite-lcoe-calculator)
     * [UGA Baseball Heat Maps](https://github.com/DanielPSaul#uga-baseball-heat-maps)
     * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
     * [Food Blog Website](https://github.com/DanielPSaul#food-blog-website)
@@ -116,6 +117,20 @@ This repository consists of work completed through technical personal projects, 
 **Packages:** shiny, rsconnect, tidyverse, lpSolve, shinythemes, shinydashboard, DT, shinyalert, shinyjs, shinyBS, rmarkdown, xlsx, readxl, writexl
 
 **Description:** With this simple solar panel optimization calculator, users enter an anlysis period, panel, electricity, and demand inputs then outputs the total cost of the solar project, optimal number of panels, and purchased kWh per analysis year for greenhouse applications. The results can be adjusted based on new panel energy generatiion and downloaded to an Excel file. This project is one of the apps developled during my student assistantship with the Terry College of Business - Management Information Systems and Physics department at the University of Georgia.
+
+<br>
+
+### Perovskite LCOE Calculator
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/PerovskiteCalc)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://daniel-saul.shinyapps.io/Perovskite-App/)
+
+**Concepts:** Interactive Web App Development, Data Analytics, Data Visualization, API's 
+
+**Software & Languages:** R, PVWatts
+
+**Packages:** shiny, rsconnect, shinythemes, shinydashboard, DT, tidyverse, shinyalert, shinyBS, shinyjs, leaflet, zipcodeR, plotly, lubridate, httr, reshape2, writexl, xlsx, readxl
+
+**Description:** With this simple perovskite solar panel project cost calculator, users enter location and various levelized cost of electricity (LCOE) inputs such as total installation cost, discount rate, and annual panel energy generated. Then, a basic table and visualizations, which are downloadable, are outputted with the overall calculated LCOE compared to local commercial, industrial, and residential eletricity prices offered by the local power company. Users can also select to enter an LCOE value they already have and simply compare to the electricity rates. This project is one of the apps developled during my student assistantship with the Terry College of Business - Management Information Systems and Physics department at the University of Georgia. Specifically, requirements were gathered from the Physics Department at UGA for perovskite solar cells they are developing.
 
 <br>
 
