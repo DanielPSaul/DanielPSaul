@@ -66,6 +66,7 @@ This repository consists of work completed through technical personal projects, 
 
 * [Web Application Development](https://github.com/DanielPSaul#web-application-development)
     * [Solar Panel Simulation](https://github.com/DanielPSaul#solar-panel-simulation)
+    * [Solar Panel Optimizaton](https://github.com/DanielPSaul#solar-panel-optimization)
     * [UGA Baseball Heat Maps](https://github.com/DanielPSaul#uga-baseball-heat-maps)
     * [Donut Shop Website](https://github.com/DanielPSaul#donut-shop-website)
     * [Food Blog Website](https://github.com/DanielPSaul#food-blog-website)
@@ -101,6 +102,20 @@ This repository consists of work completed through technical personal projects, 
 **Packages:** shiny, rsconnect, shinythemes, shinydashboard, DT, tidyverse, shinyalert, shinyBS, shinyjs, leaflet, zipcodeR, plotly, lubridate, httr, reshape2, writexl, xlsx, readxl
 
 **Description:** With this solar panel simulation application, users can enter zipcode, solar panel/system, and financial inputs to run a simulation that provides analysis of energy and financial outputs based on a certain location's weather data. The weather data used is a typical meteorological year (TMY) file which represents the average weather conditions over a select year range. It is extracted from the National Solar Radiation Database (NSRDB) and run through the National Renewable Energy Laboratory (NREL) SAM model. Outputs are visualized through plots and tables at an annual, monthly, and hourly basis. This project is one of the apps developled during my student assistantship with the Terry College of Business - Management Information Systems and Physics department at the University of Georgia.
+
+<br>
+
+### Solar Panel Optimization
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/SolarPanelOpt)
+[![](https://img.shields.io/badge/ShinyApps.io-Open_Web_App-3686d3?logo=r)](https://daniel-saul.shinyapps.io/Solar-Panel-LP/)
+
+**Concepts:** Interactive Web App Development, Linear Programming
+
+**Software & Languages:** R
+
+**Packages:** shiny, rsconnect, tidyverse, lpSolve, shinythemes, shinydashboard, DT, shinyalert, shinyjs, shinyBS, rmarkdown, xlsx, readxl, writexl
+
+**Description:** With this simple solar panel optimization calculator, users enter an anlysis period, panel, electricity, and demand inputs then outputs the total cost of the solar project, optimal number of panels, and purchased kWh per analysis year. The results can be adjusted based on new panel energy generatiion and downloaded to an Excel file. This project is one of the apps developled during my student assistantship with the Terry College of Business - Management Information Systems and Physics department at the University of Georgia.
 
 <br>
 
