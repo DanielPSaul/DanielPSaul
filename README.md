@@ -81,7 +81,7 @@ This repository consists of work completed through technical personal projects, 
     * [Marketing Analytics Collection](https://github.com/DanielPSaul#marketing-analytics-collection)
     * [Machine Learning Collection](https://github.com/DanielPSaul#machine-learning-collection)
     * [Energy Informatics Collection](https://github.com/DanielPSaul#energy-informatics-collection)
-    * [National Football League (NFL) Arrests](https://github.com/DanielPSaul#national-football-league-(nfl)-arrests)
+    * [National Football League Arrests](https://github.com/DanielPSaul#national-football-league-arrests)
     * [Online Marketplace Price Prediction](https://github.com/DanielPSaul#online-marketplace-price-prediction)
     * [My Job Application Process](https://github.com/DanielPSaul#my-job-application-process-2022)
     * [Economic Time Series](https://github.com/DanielPSaul#economic-time-series)
