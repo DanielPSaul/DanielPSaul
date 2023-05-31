@@ -84,6 +84,8 @@ This repository consists of work completed through technical personal projects, 
     * [National Football League (NFL) Arrests](https://github.com/DanielPSaul#national-football-league-(nfl)-arrests)
     * [Online Marketplace Price Prediction](https://github.com/DanielPSaul#online-marketplace-price-prediction)
     * [My Job Application Process](https://github.com/DanielPSaul#my-job-application-process)
+    * [Economic Time Series](https://github.com/DanielPSaul#economic-time-series)
+    * [Data Management Collection](https://github.com/DanielPSaul#data-management-collection)
 * [Systems & Process Analysis](https://github.com/DanielPSaul#systems-&-process-analysis)
     * [Student Organizations System](https://github.com/DanielPSaul#student-organizations-system)
     * [Health Insurance System BPM](https://github.com/DanielPSaul#health-insurance-system-BPM)
@@ -143,7 +145,7 @@ This repository consists of work completed through technical personal projects, 
 
 **Packages:** shiny, tidyverse, plotly
 
-**Description:** This web application was built for the University of Georgia baseball team's pitchers and pitching coaches to help analyze pitching and opposing players batting habits and win more games. It resulted from a semester-long project for a sports analytics directed study elective completed during my first semester in the MSBA. My team and I were tasked with building less clunky and smooth heat maps based on pitching location within a strike zone combined with the outcome of the pitch. The application has been built in iterations by previous groups, so we were responsible for creating two tabs, pitching and hitting heat maps, along with various other baseball-related statistics in the visuals. Users can input the season, game or range of games, batter side, pitch types, pitch outcomes, and pitcher in which faceted heat maps and a statistics table are generated. Inputs are similar for the batting analysis, except that the heat maps display the pitch location pitched to the opposing batter, faceted by the outcome of the pitch instead of the pitch type. Sample photos and the select code we used are included in the repository to prevent access or sharing of sensitive or personal information.
+**Description:** This web application was built for the University of Georgia baseball team's pitchers and pitching coaches to help analyze pitching and opposing players batting habits and win more games. It resulted from a semester-long project for a sports analytics directed study elective completed during my first semester in the MSBA. My team and I were tasked with building less clunky and smooth heat maps based on pitching location within a strike zone combined with the outcome of the pitch. The application has been built in iterations by previous groups, so we were responsible for creating two tabs, pitching and hitting heat maps, along with various other baseball-related statistics in the visuals. Users can input the season, game or range of games, batter side, pitch types, pitch outcomes, and pitcher in which faceted heat maps and a statistics table are generated. Inputs are similar for the batting analysis, except that the heat maps display the pitch location pitched to the opposing batter, faceted by the outcome of the pitch instead of the pitch type. Sample photos and the select code we created are included in the repository as well as the full app code.
 
 <br>
 
@@ -212,6 +214,10 @@ This repository consists of work completed through technical personal projects, 
 **Description:** This basic website was an assignment I worked on and created in a cloud network application and web development course at UGA. We were tasked with building a dynamic website mimicing a book database or online library. We used AWS S3 for cloud storage and other AWS products such as EC2, Elastic Beanstalk, AWS Console, and RDS It shows all of the books available in the database, giving to the option to add, edit, or delete books. I have included this project in my portfolio to get a glimpse of my past experiences with web development, but unfortunately, I have lost the correct software and connections to run and visualize the app.
 
 <br>
+
+
+
+
 
 ## Data Science & Analytics
 ### GameStop Case Study
@@ -320,6 +326,32 @@ This repository consists of work completed through technical personal projects, 
 
 ### My Job Application Process (2022)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MyJobApplicationProcess)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Economic Time Series
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/EconomicTimeSeries)
+
+**Concepts:** 
+
+**Software & Languages:** 
+
+**Packages:** 
+
+**Description:**
+
+<br>
+
+### Data Management Collection
+[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DataManagementCollection)
 
 **Concepts:** 
 
