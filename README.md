@@ -301,13 +301,13 @@ This repository consists of work completed through technical personal projects, 
 ### NFL Arrests
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/NFLArrests)
 
-**Concepts:** 
+**Concepts:** Data Visualization, Data Analysis
 
-**Software & Languages:** 
+**Software & Languages:** Tableau
 
-**Packages:** 
+**Packages:** N/A
 
-**Description:**
+**Description:** This is a basic personal project I completed in Tableau that analyzes details of NFL player arrests over the period of 2000 to 2017. The visuals are split by incidents over time, total incidents by team, total incidents by charge category, and total incidents by each position.
 
 <br>
 
