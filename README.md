@@ -326,13 +326,13 @@ This repository consists of work completed through technical personal projects, 
 ### My Job Application Process (2022)
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/MyJobApplicationProcess)
 
-**Concepts:** 
+**Concepts:** Data Visualization, Data Analysis, Data Collection, Data Cleaning
 
-**Software & Languages:** 
+**Software & Languages:** Python, Jupyter Notebook
 
-**Packages:** 
+**Packages:** pandas, numpy, seaborn, datetime, matplotlib
 
-**Description:**
+**Description:** This was a personal project I completed for practice purposes after receiving and accepting a job offer during the MSBA program recruitment cycle. I was interested to understand the details of positions I applied to over time. I kept logs of each application I submitted in a Google Sheet which I then converted to a CSV file for the project. The data needed to be manipulated to add value to the visualizations. The notebook and job application dashboard are included in the repository.
 
 <br>
 
