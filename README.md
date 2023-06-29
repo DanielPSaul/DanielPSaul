@@ -18,9 +18,9 @@ Hello! My name is Daniel Saul, and currently, I am a Business Operations Enginee
 
 ## Technical Skills 💻
 - Language: R, Python, SQL, XML, Java, HTML, CSS, JavaScript
-- Software: Tableau, R Shiny, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
+- Software: Tableau, Power BI, R Shiny, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
 - Packages: *Included in projects below!*
-- Environments: R Studio, Eclipse, Anaconda, MySQL
+- Environments: R Studio, Eclipse, Anaconda (Jupyter Notebook), MySQL, Visual Studio Code
 
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
@@ -86,7 +86,7 @@ This repository consists of work completed through technical personal projects, 
     * [Economic Time Series](https://github.com/DanielPSaul#economic-time-series)
     * [Data Management Collection](https://github.com/DanielPSaul#data-management-collection)
  
-## Other Notable Projects (Not in portfolio)
+### Other Notable Projects (not in portfolio)
 * Delta Air Lines Fuel Forecasting Capstone Project
 * UGA Student Organizations Salesforce System
 * Health Insurance System Business Process Management Notation Mapping
@@ -356,13 +356,13 @@ causal effects and to forecast future values in my graduate Economic Time Series
 ### Data Management Collection
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DataManagementCollection)
 
-**Concepts:** 
+**Concepts:** Data Management, Data Analysis, Data Visualization, API's, Network Analysis, Data Wrangling
 
-**Software & Languages:** 
+**Software & Languages:** Python, Jupyter Notebook
 
-**Packages:** 
+**Packages:** numpy, pandas, altair, networkx, requests
 
-**Description:**
+**Description:** This repository holds a collection of multiple group assignments that were not large enough for their own repository I completed for a Advanced Data Management and Analytics course at UGA. Each one becomes more advanced as the course went on, using sample datasets to answer specfic questions given by our professor that ultimately rely on each other to solve. Each assignment also addresses different chunks of concepts we were learning in the course.
 
 <br>
 
