@@ -85,9 +85,12 @@ This repository consists of work completed through technical personal projects, 
     * [My Job Application Process](https://github.com/DanielPSaul#my-job-application-process-2022)
     * [Economic Time Series](https://github.com/DanielPSaul#economic-time-series)
     * [Data Management Collection](https://github.com/DanielPSaul#data-management-collection)
-* [Systems & Process Analysis](https://github.com/DanielPSaul#systems-&-process-analysis)
-    * [Student Organizations System](https://github.com/DanielPSaul#student-organizations-system)
-    * [Health Insurance System BPM](https://github.com/DanielPSaul#health-insurance-system-BPM)
+ 
+## Other Notable Projects (Not in portfolio)
+* Delta Air Lines Fuel Forecasting Capstone Project
+* UGA Student Organizations Salesforce System
+* Health Insurance System Business Process Management Notation Mapping
+
 
 
 <br>
@@ -352,35 +355,6 @@ causal effects and to forecast future values in my graduate Economic Time Series
 
 ### Data Management Collection
 [![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/DataManagementCollection)
-
-**Concepts:** 
-
-**Software & Languages:** 
-
-**Packages:** 
-
-**Description:**
-
-<br>
-
-
-  
-## Systems & Process Analysis
-### Student Organizations System
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/StudentOrganizationsSystem)
-
-**Concepts:** 
-
-**Software & Languages:** 
-
-**Packages:** 
-
-**Description:**
-
-<br>
-
-### Health Insurance System BPM
-[![](https://img.shields.io/badge/GitHub-View_on_GitHub-6e5494?logo=GitHub)](https://github.com/DanielPSaul/HealthInsuranceSystemBPM)
 
 **Concepts:** 
 
