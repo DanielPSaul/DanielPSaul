@@ -7,10 +7,16 @@
 </p>
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Introduction 🤝
-Hello! My name is Daniel Saul, and currently, I am a Business Operations Engineer at intelliflo and a recent graduate of the Master of Science in Business Analytics (MSBA) program at the University of Georgia (UGA). I am originally from Franklin, Tennessee, a 25-minute drive south of Nashville, but I spent the prior 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! This portfolio displays those personal projects and coursework I've completed in the past. However, some significant projects are not included for privacy reasons. Outside of my professional career, I love sports and fitness, travel, cooking, and spending time outdoors. Feel free to connect with me on LinkedIn or reach out!
+Hello! My name is Daniel Saul, and currently, I am a Business Operations Engineer at intelliflo and a recent graduate of the Master of Science in Business Analytics (MSBA) program at the University of Georgia (UGA). I am originally from Nashville, Tennessee, but I spent the prior 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! This portfolio displays those personal projects and coursework I've completed in the past. However, some significant projects are not included for privacy reasons. Outside of my professional career, I love sports and fitness, travel, cooking, and spending time outdoors. Feel free to connect with me on LinkedIn or reach out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
