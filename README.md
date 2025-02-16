@@ -2,73 +2,22 @@
 
 <br>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=danielpsaul&show_icons=true&locale=en" alt="danielpsaul" />
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # Introduction 🤝
-Hello! My name is Daniel Saul, and currently, I am a Business Operations Engineer at intelliflo and a recent graduate of the Master of Science in Business Analytics (MSBA) program at the University of Georgia (UGA). I am originally from Nashville, Tennessee, but I spent the prior 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! This portfolio displays those personal projects and coursework I've completed in the past. However, some significant projects are not included for sensitivity of data. Feel free to connect with me on LinkedIn or reach out!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/danielsaul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielsaul1" height="30" width="40" /></a>
-</p>
-
-## Technical Skills 💻
-- Language: R, Python, SQL, XML, Java, HTML, CSS, JavaScript
-- Software: Tableau, Power BI, R Shiny, Microsoft Office, Splunk, Salesforce, SPSS, JMP, AWS, Jira, OneTrust
-- Packages: *Included in projects below!*
-- Environments: R Studio, Eclipse, Anaconda (Jupyter Notebook), MySQL, Visual Studio Code
-
-<br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
-
-*Will not display all languages known.*
-
-## Education 📖
-- M.S. Business Analytics | University of Georgia | 2022-2023
-- B.B.A. Management Information Systems | University of Georgia | 2018-2022
-- Marketing & Management CCTE | Franklin High School | 2014-2018
-
-## Experience 📝
-- Business Operations Engineer | Invesco - intelliflo | Jul 2023-Present
-- Student Assistant | Unversity of Georgia - Terry College of Business - MIS | Aug 2022-May 2023
-- Business Operations Intern, FinTech | Invesco - intelliflo | Jun 2021-May 2022
-- Corporate Development Intern | Make-A-Wish Georgia | Dec 2020-Mar 2021
-- Data Research and Entry | ScholarshipAuditions.com | Jun 2020-Jul 2020
-- Sales and Data Analyst | Music City Wear It | May 2019-May 2020
-
-## Certifications 📜
-- Arch Ready Professionalism | UGA
-- Machine Learning for Business | Datacamp
-- Learn SQL | Codeacademy
-- Lean Six Sigma Yellow Belt | GoLeanSixSigma
-- Introduction to Statistics in R | Datacamp
-- Introduction to the Tidyverse | Datacamp
-- Tableau 2020 A-Z: Hands-On Tableau Training for Data Science | Udemy
-- Visio 2019 Essential Training | LinkedIn Learning
-- HTML Essential Training | LinkedIn Learning
-- Introduction to CSS | LinkedIn Learning
-- Learning SQL Programming | LinkedIn Learning
-- SQL Essential Training | LinkedIn Learning
-- Excel 2016 Essential Training | LinkedIn Learning
-- Excel 2016: Advanced Forumlas and Functions | LinkedIn Learning
-- Excel 2016: Financial Functions in Depth | LinkedIn Learning
+Hello! My name is Daniel Saul, and currently, I am a Business Operations Engineer at intelliflo and a recent graduate of the Master of Science in Business Analytics (MSBA) program at the University of Georgia (UGA). I am originally from Nashville, Tennessee, but I spent the prior 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! Feel free to connect with me on
+  <a href="https://www.linkedin.com/in/danielsaul1/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> or reach out!
 
 <br>
 
 # Portfolio Contents 🗂️
 This repository consists of work completed through technical personal projects, part-time experiences, and coursework. Some code, projects, or files may be limited due to lost items or the prevention of releasing personal or sensitive data/information.
 
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielpsaul&show_icons=true&locale=en&layout=compact" alt="danielpsaul" /></p>
+
+<br>
 
 * [Web Application Development](https://github.com/DanielPSaul#web-application-development)
     * [Solar Panel Simulation](https://github.com/DanielPSaul#solar-panel-simulation)
