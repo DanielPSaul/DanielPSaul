@@ -3,7 +3,7 @@
 <br>
 
 # Introduction 🤝
-Hello! My name is Daniel Saul, and currently, I am a Business Operations Engineer at intelliflo and a graduate of the Master of Science in Business Analytics (MSBA) program at the University of Georgia (UGA). I am originally from Nashville, Tennessee, but I spent the prior 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! Feel free to connect with me on
+Hello! My name is Daniel Saul, and currently, I am a Revenue Operations Manager at RedBlack Software and a graduate of the Master of Science in Business Analytics (MSBA) program at the University of Georgia (UGA). I am originally from Nashville, Tennessee, but I spent the prior 4 years in Athens at UGA completing my Bachelor of Business Administration in Management Information Systems (MIS) with an Area of Emphasis in Data Analytics. I love the creative abilities data and technology has to offer, and I enjoy partaking in personal projects to help myself expand my knowledge and grow! Feel free to connect with me on
   <a href="https://www.linkedin.com/in/danielsaul1/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> or reach out!
